@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/isemary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isemary" height="30" width="40" /></a>
 </p>
 <h3 align="left">
-In Progress Projects
+Achieved Projects
 </h3>
 <pre><h4>Ongoing Projects</h4><ul><li>Any Service Manager Dashboard [Linux Packages Handler]</li><li>Formulator [Self-Serve Form Builder]</li></ul><h4>Upcoming Projects</h4><ul><li>BytePoint [CloudAPI Integration Dashboard]</li></ul></pre>
 <h3 align="left">Languages and Tools:</h3>
